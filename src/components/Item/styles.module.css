@@ -1,0 +1,64 @@
+h1 {
+  margin: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
+h3 {
+  margin: 0.25rem;
+  padding: 0.5rem;  
+}
+
+h4 {
+  margin: 0;
+  padding: 1rem 0.5rem;
+}
+
+p {
+  height: 20%;
+  margin: 0;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.button {
+  border: 1px solid black;
+  border-radius: 30%;
+  background: none;
+  font-size: x-large;
+  font-weight: 500;
+  padding: 0.2rem;
+  width: 25%;
+}
+
+.buttonContainer {
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.buttonDelete {
+  font-size: large;
+  border: none;
+  background: none;
+  float: right;
+  position: relative;
+}
+
+.item {
+  background-color: #C69749;
+  border: 2px solid;
+  border-radius: 1.5rem;
+  color: #000000;
+  margin: 0.25rem;
+  max-width: 230px;
+  min-width: 160px;
+  padding: 0.5rem;
+  text-align: justify;
+  width: 25%;
+}
+
+.itemCount {
+  font-size: large;
+  font-weight: 500;
+  margin: 1.25rem;
+}

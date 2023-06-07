@@ -1,0 +1,59 @@
+.container {
+  background-color: #282a3a;
+  border: 2px solid;
+  border-radius: 1.5rem;
+  float: left;
+  margin: 0.5rem;
+  padding: 5px;
+  text-align: center;
+  width: 25%;
+}
+
+.formButton {
+  border: none;
+  border-radius: 1.5rem;
+  font-size: large;
+  margin: 2rem 0;
+  padding: 0.5rem;
+  width: 50%;
+}
+
+.formButtonOff {
+  background-color: darkgrey;
+}
+
+.formButtonOn {
+  background-color: #c69749;
+}
+
+.inputContainer {
+  margin: 2rem 0;
+  padding: 0.5rem;
+  text-align: center;
+}
+
+.inputField {
+  background-color: #735f32;
+  border: 1px solid black;
+  border-radius: 1rem;
+  display: block;
+  font-size: x-large;
+  margin: 0.5rem auto;
+  padding: 0.5rem;
+  text-align: center;
+  width: 90%;
+}
+
+.inputForm {
+  margin: auto;
+}
+
+.inputLabel {
+  display: block;
+  padding-left: 5%;
+  text-align: left;
+}
+
+.title {
+  font-size: x-large;
+}
